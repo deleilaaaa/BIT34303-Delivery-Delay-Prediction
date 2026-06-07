@@ -4,9 +4,9 @@
 BIT34303 Machine Learning
 
 ## Group Members
-- IU Deleila
+- I.U.Deleila
 - Ilya
-- [Other members]
+- Hammad Akram
 
 ## Project Objective
 To predict delivery delays in logistics systems using machine learning techniques.
